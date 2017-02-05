@@ -1,0 +1,9 @@
+/home/lucas/videoaula-jsf-hospedagem-lar/src/main/java/com/algaworks/hospedagem/repository/Jogadores.java
+/home/lucas/videoaula-jsf-hospedagem-lar/src/main/java/com/algaworks/hospedagem/bean/JogadorBean.java
+/home/lucas/videoaula-jsf-hospedagem-lar/src/main/java/com/algaworks/hospedagem/util/Transacional.java
+/home/lucas/videoaula-jsf-hospedagem-lar/src/main/java/com/algaworks/hospedagem/model/Jogador.java
+/home/lucas/videoaula-jsf-hospedagem-lar/src/main/java/com/algaworks/hospedagem/service/JogadorService.java
+/home/lucas/videoaula-jsf-hospedagem-lar/src/main/java/com/algaworks/hospedagem/util/TransacionalInterceptor.java
+/home/lucas/videoaula-jsf-hospedagem-lar/src/main/java/com/algaworks/hospedagem/util/EntityManagerProducer.java
+/home/lucas/videoaula-jsf-hospedagem-lar/src/main/java/com/algaworks/hospedagem/bean/JogadoresPesquisaBean.java
+/home/lucas/videoaula-jsf-hospedagem-lar/src/main/java/com/algaworks/hospedagem/util/PersistenceProperties.java
